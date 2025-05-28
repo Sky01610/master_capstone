@@ -65,7 +65,3 @@ While the project achieves its goals, there are opportunities for further improv
 2. **Dynamic Clustering**: Incorporating methods such as DBSCAN or hierarchical clustering to handle more complex datasets with highly variable structures.
 3. **Advanced Augmentations**: Adding more robust preprocessing or augmentation techniques to increase the generalizability of the models.
 4. **Interactivity**: Building a user-friendly GUI or web interface for non-technical users to interact with the pipeline.
-
-# Final Remarks
-This project represents a blend of machine learning concepts and practical implementation, ensuring both innovation and usability. The thoroughness of the workflow and the modular coding approach make it an excellent foundation for further research or industry adoption.
-For any queries, enhancements, or collaboration requests, please refer to the **Contact** section in the README file.
